@@ -1,4 +1,8 @@
 # 👋 Hi!
+<p align="center" width="100%">
+  <img width="100%" src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif" alt="BTR Ikuyo Kita">
+</p>
+
 
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
 
@@ -14,6 +18,6 @@ Welcome to my cozy little dorm. There are few things here to check out, but just
 
 ## 💻 OSes/tools I use...
 
-![Windows](https://img.shields.io/badge/Windows-505050?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-505050?style=for-the-badge&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-505050?style=for-the-badge&logo=fedora&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-505050?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-505050?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-505050?&style=for-the-badge&logo=neovim&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-505050?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-505050?style=for-the-badge&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-505050?style=for-the-badge&logo=fedora&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-505050?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-505050?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
