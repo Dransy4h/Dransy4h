@@ -6,7 +6,7 @@ Welcome to my cozy little dorm. There are few things here to check out, but just
 - ⛏️ Develope Engineering!
 - 🗒️ More information/showcases available at [dransy4h.github.io](https://github.com/Dransy4h)
 
-[![Codewars](https://www.codewars.com/users/PixelSam123/badges/small)](https://www.codewars.com/users/PixelSam123)
+
 
 ## 🔧 I'm ready to work with...
 
@@ -16,4 +16,4 @@ Welcome to my cozy little dorm. There are few things here to check out, but just
 
 ![Windows](https://img.shields.io/badge/Windows-505050?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-505050?style=for-the-badge&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-505050?style=for-the-badge&logo=fedora&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-505050?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-505050?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-505050?&style=for-the-badge&logo=neovim&logoColor=white)
 
-## 🌏 Socials
+
