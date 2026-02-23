@@ -1,6 +1,6 @@
 # 👋 Hi!
 <p align="center" width="100%">
-  <img width="100%" src="https://ibb.co.com/6SgkDp4" alt="pict">
+  <img width="100%" src="https://i.ibb.co.com/1N8kRp9/Foto-dari-1.jpg" alt="pict">
 </p>
 
 
