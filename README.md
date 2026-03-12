@@ -6,9 +6,9 @@
 
 Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
 
-- ☕ Doesn't really like the drink in this emoji
 - ⛏️ Develope Engineering!
-- 🗒️ More information/showcases available at [dransy4h.github.io](https://github.com/Dransy4h)
+- 
+
 
 
 
