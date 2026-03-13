@@ -4,10 +4,10 @@
 </p>
 
 
-Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
+Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand.
 
 - ⛏️ Develope Engineering!
-- 
+- https://s.id/SertifDra
 
 
 
